@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+#wrap {
+	width:980px;
+	margin: 0 auto;
+}
+#homepage {
+    text-align: right;
+}
+#laptopimage {
+    vertical-align: top;
+}
+#coloroption {
+    vertical-align: bottom;
+}
+#bodytext {
+    text-align: left;
+    vertical-align: top;
+}
+body {
+    background-color: #A2CBE3;
+}
+body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+body {
+    color: #505657;
+}
+#homepage {
+    text-align: right;
+}
+#charttitle {
+    font-size: 14px;
+    font-weight: bold;
+}
+#homepage {
+    text-align: right;
+}
